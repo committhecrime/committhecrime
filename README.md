@@ -9,7 +9,7 @@
 </div>
 
 - 👋 Hi, I’m @committhecrime
-- 👀 I’m interested in blockchain technologies
+- 👀 I’m interested in Blockchain Technologies
 - 🌱 I’m currently learning FrontEnd Development 
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 Here's my telegram: @aBotAlik

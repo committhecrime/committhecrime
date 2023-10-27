@@ -7,7 +7,6 @@
   <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="life" width="200">
 </div>
 
-- 👋 Hi, I’m @committhecrime
 
 
 <!---

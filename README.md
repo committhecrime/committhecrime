@@ -8,10 +8,7 @@
 </div>
 
 - 👋 Hi, I’m @committhecrime
-- 👀 interested in Blockchain Technologies
-- 🌱 currently learning FrontEnd Development 
-- 💞️ looking to collaborate on any interesting project
-- 📫 Here's my telegram: @aBotAlik
+
 
 <!---
 committhecrime/committhecrime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
